@@ -31,29 +31,41 @@ This app allows users to create, read, update, and delete tasks with a clean UI 
 
 ---
 
-Backend Setup
-1️⃣ Go to the backend folder
+# ⚙️ Backend Setup
+
+### 1️⃣ Go to backend folder
+```bash
 cd backend
+```
 
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
+```bash
 npm install
+```
 
-3️⃣ Start the backend server
+### 3️⃣ Start backend server
+```bash
 npm start
+```
 
+---
 
+# 🖥️ Frontend Setup
 
-
- Frontend Setup
-1️⃣ Go to the frontend folder
+### 1️⃣ Go to frontend folder
+```bash
 cd frontend
+```
 
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
+```bash
 npm install
+```
 
-3️⃣ Start the frontend app
+### 3️⃣ Start frontend app
+```bash
 npm start
-
+```
 
 
 
